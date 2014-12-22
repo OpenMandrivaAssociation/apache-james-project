@@ -1,12 +1,13 @@
+%{?_javapackages_macros:%_javapackages_macros}
 %global server_ver      2.2.0
 %global short_name      apache-james
 
 Name:             %{short_name}-project
 Version:          1.8.1
-Release:          9%{?dist}
+Release:          9.1
 Summary:          Main project POM files and resources
 License:          ASL 2.0
-Group:            Development/Libraries
+Group:            Development/Java
 URL:              http://james.apache.org/
 # ./create-tarball.sh %%{VERSION}
 Source0:          james-project-1.8.1-clean.tar.gz
