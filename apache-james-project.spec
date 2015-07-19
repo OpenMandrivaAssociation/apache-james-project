@@ -4,7 +4,7 @@
 
 Name:             %{short_name}-project
 Version:          1.8.1
-Release:          9.1
+Release:          9.2
 Summary:          Main project POM files and resources
 License:          ASL 2.0
 Group:            Development/Java
