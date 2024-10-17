@@ -8,7 +8,7 @@ Release:          9.3
 Summary:          Main project POM files and resources
 License:          ASL 2.0
 Group:            Development/Java
-URL:              http://james.apache.org/
+URL:              https://james.apache.org/
 # ./create-tarball.sh %%{VERSION}
 Source0:          james-project-1.8.1-clean.tar.gz
 Source1:          create-tarball.sh
